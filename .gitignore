@@ -14,6 +14,7 @@
 *.pt
 *.pkl
 *.pth
+*.model
 
 
 npm-debug.log*
