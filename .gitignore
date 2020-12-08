@@ -13,6 +13,7 @@
 *.MOV
 *.pt
 *.pkl
+*.pth
 
 
 npm-debug.log*
